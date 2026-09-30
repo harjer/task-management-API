@@ -5,8 +5,9 @@ __pycache__/
 .pytest_cache/
 .coverage
 .vscode/
+*.egg-info/
 
-DATABASE_URL=postgresql+psycopg2://taski_manager_user:Kingy02@localhost:5432/task_manager
+
 
 JWT_SECRET=change-this-to-a-long-random-secret
 JWT_ALGORITHM=HS256
