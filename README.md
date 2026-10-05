@@ -135,7 +135,7 @@ Versioning
 
 The project uses Git tags for milestone versions.
 
-Current milestone:
+Current milestone: continuous deployment
 
 v0.2.0
 
